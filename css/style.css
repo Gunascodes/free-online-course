@@ -1,0 +1,26 @@
+@import url(./fonts.css);
+@import url(./color.css);
+@import url(../icons/icons.html);
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.navi {
+  position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+
+
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+.orange-bg-50 {
+    background-color: #FF9500;
+}
